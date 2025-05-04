@@ -1,4 +1,10 @@
-## Hi there 👋
+<!-- Header with your name -->
+<h1 align="center">Aisha Mujahid✨</h1>
+
+<p align="center">
+  <i>A passionate frontend engineering learner, aspiring problem solver, and code lover</i>
+</p>
+
 ---
 
 ### 👩🏽‍💻 About Me
@@ -8,7 +14,7 @@ I'm currently a learner in the ALX Frontend Engineering program and pursuing a d
 * 🌍 I’m passionate about **coding, technology, and its constant evolution**
 * 🛠️ I aim to **build tools that make life easier or more enjoyable** for people
 * 🚀 I'm especially interested in working on: **productivity tools**
-* - 💡 I'm continuously learning and improving my skills in **HTML, CSS, JavaScript, and C++**
+* 💡 I'm continuously learning and improving my skills in **HTML, CSS, JavaScript, and C++**
 
 ---
 
@@ -20,7 +26,7 @@ I'm currently a learner in the ALX Frontend Engineering program and pursuing a d
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 Currently exploring:
@@ -52,7 +58,7 @@ Currently exploring:
 
 * 💻 Responsive Web Design – *FreeCodeCamp*
 * 🌐 Web Development – *eHA Academy*
-
+* 🎓 Professional Foundations - *ALX*
 ---
 
 ### 🗂️ Projects to Explore
