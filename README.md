@@ -7,7 +7,7 @@ I'm currently a learner in the ALX Frontend Engineering program and pursuing a d
 
 * 🌍 I’m passionate about **coding, technology, and its constant evolution**
 * 🛠️ I aim to **build tools that make life easier or more enjoyable** for people
-* 🚀 I'm especially interested in working on: \*\*productivity tools \*\*
+* 🚀 I'm especially interested in working on: \*\*productivity tools\*\*
 * 💡 I'm continuously learning and improving my skills in **HTML, CSS, JavaScript, and React**
 
 ---
