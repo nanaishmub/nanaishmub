@@ -42,7 +42,7 @@ Currently exploring:
 ### 🤝 Let's Connect
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/nanaishmub/)
-* 🔗 [X]((https://x.com/nanaishmub))
+* 🔗 [X](https://www.x.com/nanaishmub/)
 * ✉️ Email: [aisha.mujahid.kabir@gmail.com](mailto:aisha.mujahid.kabir@gmail.com)
 
 ---
